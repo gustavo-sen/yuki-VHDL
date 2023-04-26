@@ -1,16 +1,14 @@
-# yuki-VHDL
+# YUKI-VHDL
 
 
-**VHDL developed for FPGA to generate PWM controll**
+## VHDL developed for FPGA to generate PWM controll
 
 
-FPGA BOARD
+>FPGA BOARD SPECS
 
-  - Brand: Xilinx
+| Brand     | Xilinx  |
+| ----------| --------| 
+| Model     | Spartan | 
+| Series    | 3AEV    | 
 
-
-  - Model: Spartan
-
-
-  - Series: 3A
   
