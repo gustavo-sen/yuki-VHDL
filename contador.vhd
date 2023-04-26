@@ -7,7 +7,6 @@ use IEEE.STD_LOGIC_UNSIGNED.ALL;
 entity contador is
 	port(
 		clk, rst: in std_logic;
-		delay : in integer;
 		q: out std_logic_vector(7 downto 0)
 	);
 end contador;

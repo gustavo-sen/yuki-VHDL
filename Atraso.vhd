@@ -26,10 +26,14 @@ architecture atraso_comp of Atraso is
 				if rising_edge(clk) then 
 					is_enable <= '1'; 
 
-					if "00010011" >= cont then
+					if "11111111" >= cont then
+					
 						cont <= (cont + 1); -- biblioteca STD permite concatenar '1' (bit) e 1 (integer)
-					elsif cont >= "00010011" then
+					
+					elsif cont >= "11111111" then
+					
 						is_enable <= '0';
+					
 					end if;
 				end if;
 			
