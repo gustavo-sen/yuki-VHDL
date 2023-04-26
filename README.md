@@ -6,11 +6,11 @@
 
 FPGA BOARD
 
-  Brand: Xilinx
+  - Brand: Xilinx
 
 
-  Model: Spartan
+  - Model: Spartan
 
 
-  Series: 3A
+  - Series: 3A
   
