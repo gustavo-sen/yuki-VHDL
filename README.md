@@ -6,9 +6,11 @@
 
 >FPGA BOARD SPECS
 
-| Brand     | Xilinx  |
-| ----------| --------| 
-| Model     | Spartan | 
-| Series    | 3AEV    | 
-
+| Information |                     |
+| ----------  |       --------      | 
+| Brand       | Xilinx              |
+| Model       | Spartan             | 
+| Series      | 3A                  | 
+| Package     | XC3S400A            | 
+| Part Numb   | AES-SP3A-EVAL400-G  |
   
