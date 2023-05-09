@@ -1,4 +1,4 @@
-# YUKI-VHDL
+# SUDO-VHDL
 
 
 ## VHDL developed for FPGA to generate PWM controll
@@ -8,9 +8,9 @@
 
 | Information |                     |
 | ----------  |       --------      | 
-| Brand       | Xilinx              |
-| Model       | Spartan             | 
-| Series      | 3A                  | 
-| Package     | XC3S400A            | 
-| Part Numb   | AES-SP3A-EVAL400-G  |
+| Brand       | Altera              |
+| Model       | DEO                 | 
+| Series      | IV                  | 
+| Package     |                     | 
+| Part Numb   |                     |
   
