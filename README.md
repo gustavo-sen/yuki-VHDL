@@ -6,11 +6,13 @@
 
 >FPGA BOARD SPECS
 
+
 | Information |                     |
 | ----------  |       --------      | 
+| DEV KIT     | DE0                 |
 | Brand       | Altera              |
-| Model       | DEO                 | 
-| Series      | IV                  | 
-| Package     |                     | 
-| Part Numb   |                     |
-  
+| Model       | Cyclone             | 
+| Series      | III                 | 
+| Package     | EP3C16F484C6        | 
+
+
