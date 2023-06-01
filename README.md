@@ -16,3 +16,4 @@
 | Package     | EP3C16F484C6        | 
 
 
+## Hardware Syntetization
